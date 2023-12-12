@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095780742091",
+    "project_id": "geeks4chat",
+    "storage_bucket": "geeks4chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095780742091:android:5048829e415440bcab3c4e",
+        "android_client_info": {
+          "package_name": "com.example.geeks4chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHFsEvoSi8TcEbNDDLhKeRLZdaRrEFmtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
